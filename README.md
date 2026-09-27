@@ -4,27 +4,50 @@ A webcam-based "hologram" display — a glowing 3D wireframe shape floats in fro
 
 ✨ Features
 4 hologram shapes: Sphere, Cube, Pyramid, Octagonal Prism
+
 Gesture-controlled rotation — point and move your finger to spin the object
+
 Grab & drag — pinch to pick up the hologram and move it anywhere on screen
+
 Dissolve / materialize — open your palm to make it vanish in a particle burst, make a fist to bring it back
+
 Pulse & burst effects — fist and thumbs-up trigger shockwave-style flashes
+
 Color cycling — peace sign shifts the hologram through a rainbow
+
 Animated sci-fi background — drifting particles, scanning light band, and a subtle grid layered behind everything
+
 Two-hand support — use one hand to control the object, the other to pick a shape by finger count
+
+
 🎮 Controls
+
 Gesture	Action
+
 ☝️ Point (index only) + move	Rotate the hologram
+
 🤏 Pinch	Grab / select the hologram
+
 🤏 Pinch + move hand	Drag the hologram around
+
 ✋ Open palm	Hologram dissolves and disappears
+
 ✊ Fist (while hidden)	Hologram materializes back
+
 ✊ Fist (while visible)	Pulse / shockwave burst
+
 👍 Thumbs up	Bigger power-up burst
+
 ✌️ Peace sign	Hologram cycles through colors
+
 Hold still / open hand idle	Slow ambient idle spin
+
 Other hand: 1–4 fingers	Switch shape (Sphere / Cube / Pyramid / Octagonal Prism)
+
 1 2 3 4 (keyboard)	Switch shape directly
+
 q / Esc	Quit
+
 🛠 Requirements
 Python 3.8+
 A webcam
